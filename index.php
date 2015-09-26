@@ -12,3 +12,5 @@ Text Domain: jsme-for-wordpress
 
 // Exit if accessed directly
 if( !defined( 'ABSPATH' ) ) exit;
+
+require_once("jsme.class.php");
